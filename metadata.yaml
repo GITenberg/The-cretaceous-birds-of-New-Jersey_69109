@@ -1,0 +1,29 @@
+_repo: The-cretaceous-birds-of-New-Jersey_69109
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Olson, Storrs L.
+    gutenberg_agent_id: '55108'
+    url: http://www.gutenberg.org/2009/agents/55108
+  - agent_name: Parris, David C.
+    gutenberg_agent_id: '55109'
+    url: http://www.gutenberg.org/2009/agents/55109
+description: ''
+gutenberg_issued: '2022-10-07'
+identifiers:
+  gutenberg: '69109'
+language: en
+pgterms:marc904: https://archive.org/details/cretaceousbirds63olso
+pgterms:marc905: 20220918152829olson
+pgterms:marc906: '1987'
+pgterms:marc907: US
+production_note: Tom Cosmas compiled from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: United States :Smithsonian Institution Press,1987.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The cretaceous birds of New Jersey
+url: http://www.gutenberg.org/ebooks/69109
