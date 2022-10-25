@@ -1,5 +1,8 @@
 _repo: The-cretaceous-birds-of-New-Jersey_69109
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69109-h/images/cover.png
 creator:
   authors:
   - agent_name: Olson, Storrs L.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55109'
     url: http://www.gutenberg.org/2009/agents/55109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69109#The-cretaceous-birds-of-New-Jersey
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69109'
